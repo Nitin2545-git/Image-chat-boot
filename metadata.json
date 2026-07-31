@@ -1,0 +1,6 @@
+{
+  "name": "AI Image & Chat Assistant",
+  "description": "Comprehensive product blueprint and technical specification for an AI-powered image generation and chat assistant application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
